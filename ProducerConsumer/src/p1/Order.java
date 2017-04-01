@@ -9,6 +9,7 @@ public class Order {
 	  public Order() {
 	    if (count == 10) {
 	      System.out.println("Out of food, closing");
+	      System.out.println("exting");
 	      System.exit(0);
 	    }
 	  }
