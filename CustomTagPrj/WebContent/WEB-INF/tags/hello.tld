@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib> 
+<tlibversion>1.0</tlibversion>
+<jspversion>1.1</jspversion>
+<shortName>Sample Tag</shortName>
+<tag>
+<name>Test</name>
+<tagclass>p1.Test</tagclass>
+</tag>
+</taglib>
